@@ -1,29 +1,29 @@
 @font-face {
   font-family: Interstate;
-  src: url(/Interstate-Bold3.woff) format("woff");
+  src: url(./Interstate-Bold3.woff) format("woff");
   font-weight: 700;
 }
 @font-face {
   font-family: Interstate;
-  src: url(/Interstate-Bold5.woff) format("woff");
+  src: url(./Interstate-Bold5.woff) format("woff");
   font-weight: 800;
 }
 @font-face {
   font-family: 'Interstate Mono';
-  src: url(/InterstateMono.woff) format("woff");
+  src: url(./InterstateMono.woff) format("woff");
   font-weight: 400;
   font-style: normal
 }
 @font-face {
   font-family: 'Interstate BoldCn';
-  src: url(/Interstate-BoldCondensed.woff) format("woff");
+  src: url(./Interstate-BoldCondensed.woff) format("woff");
   font-weight: 700;
   font-style: bold;
   font-stretch: condensed;
 }
 @font-face {
   font-family: 'Interstate Cn';
-  src: url(/Interstate-RegularCondensed.woff) format("woff");
+  src: url(./Interstate-RegularCondensed.woff) format("woff");
   font-weight: 400;
   font-style: normal;
   font-stretch: condensed;
@@ -31,7 +31,7 @@
 
 @font-face {
   font-family: Interstate;
-  src: url(/Interstate-Regular.woff) format("woff");
+  src: url(./Interstate-Regular.woff) format("woff");
   font-weight: 400 500;
   font-style: normal
 }
@@ -44,7 +44,7 @@
 
 @font-face {
   font-family: 'Zemestro Std';
-  src: url(/fonts/ZemestroStd.woff2) format("woff2"), url(/fonts/ZemestroStd.woff) format("woff");
+  src: url(./ZemestroStd.woff2) format("woff2"), url(./ZemestroStd.woff) format("woff");
   font-weight: 400;
   font-style: normal
 }
@@ -58,34 +58,34 @@
 }
 @font-face {
   font-family: Frutiger;
-  src: url(/Frutiger.woff) format("woff");
+  src: url(./Frutiger.woff) format("woff");
   font-weight: 400;
   font-style: normal
 }
 @font-face {
   font-family: Frutiger;
-  src: url(/Frutiger_Bold.woff) format("woff");
+  src: url(./Frutiger_Bold.woff) format("woff");
   font-weight: bold;
   font-style: normal
 }
 @font-face {
   font-family: 'Frutiger LT';
-  src: url(/FrutigerLT-66BdIt.woff) format("woff");
+  src: url(./FrutigerLT-66BdIt.woff) format("woff");
   font-style: italic;
 }
 @font-face {
   font-family: 'Frutiger Bold Cn';
-  src: url(/Frutiger-57Cn.woff) format("woff");
+  src: url(./Frutiger-57Cn.woff) format("woff");
   font-style: normal;
 }
 @font-face {
   font-family: 'Frutiger Bold Cn';
-  src: url(/FrutigerBoldCn.woff) format("woff");
+  src: url(./FrutigerBoldCn.woff) format("woff");
   font-style: normal;
 }
 @font-face {
   font-family: 'Frutiger BQ';
-  src: url(/FrutigerCondensedBQ-Black.woff) format("woff");
+  src: url(./FrutigerCondensedBQ-Black.woff) format("woff");
   font-style: normal;
 }
 .mapboxgl-ctrl-attrib {
